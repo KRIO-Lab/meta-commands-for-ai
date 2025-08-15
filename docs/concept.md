@@ -5,10 +5,10 @@ Meta-commands simplify communication with AI by acting as linguistic shortcuts, 
 
 ## Problem Space
 - Current prompts are verbose and repetitive.
-- Users struggle with grammar mismatches in gendered languages.
-- No standardized way to define "shorthand" communication with AI.
+- Lack of standardized ways to define "shorthand" instructions for AI.
+- Difficulty in maintaining consistency across longer sessions without re-explaining rules.
 
 ## Proposed Solution
 - Define and test a lightweight "meta-language" for human–AI dialogue.
-- Document efficiency gains (time saved, reduced errors, more natural feel).
-- Provide reusable libraries of meta-commands for different tasks.
+- Document efficiency gains (time saved, reduced errors, smoother workflow, more natural feel).
+- Provide reusable libraries of meta-commands for different contexts (coding, research, project management, etc.).
