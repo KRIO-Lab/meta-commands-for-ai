@@ -1,0 +1,2 @@
+ID,Meta-command,Expanded Definition,Prompt,Goal / Intention,AI Response,Success (Yes/Partial/No),Notes / Errors,Efficiency (1–5),Model / Version,Test Date (YYYY-MM-DD)
+1,Complete the note,"Formatting, headers, grammar, date, summary+keywords, web refs, footnotes, final polish",Complete the note for the attached draft.,Polish & finalize note,...,Partial,Needs web refs step,4,GPT-5 Thinking,2025-08-15

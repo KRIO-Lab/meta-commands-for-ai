@@ -1,0 +1,2 @@
+ID,Language,Meta-command,Prompt,ExpectedGender,AI Response,Grammatical Correctness (Y/N),Notes / Errors,Corrected Prompt,Efficiency (1–5),Model / Version,Test Date (YYYY-MM-DD)
+1,Polish,"Sora, ...","Sora, opowiedz historię z perspektywy kobiety.",F,...,Y,—,—,4,GPT-5 Thinking,2025-08-15
