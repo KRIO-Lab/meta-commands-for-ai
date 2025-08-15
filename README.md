@@ -1,13 +1,31 @@
-# README.md
-
 # Meta-Commands for AI
 
 ## Overview
+
 This repository explores the concept of meta-commands as shorthand instructions for AI systems, aiming to streamline human–AI interaction.
 
 Meta-commands replace long, repetitive instructions with concise, pre-defined keywords or phrases, improving efficiency, reducing errors, and providing standardized workflows.
 
+## Philosophy
+
+Human communication and AI communication operate in fundamentally different ways. While humans rely on context, shared conventions, and nuanced language, AI often requires explicit, structured instructions.
+
+Meta-commands act as an **interface layer** between human language and AI "language":
+
+```
+Human Language
+   │
+   ▼
+Meta-commands (predefined procedures, shorthand)
+   │
+   ▼
+AI internal "machine" language
+```
+
+By defining meta-commands as structured procedures, humans can interact naturally, while the AI internally translates these commands into its own optimized operational steps. This approach reduces cognitive load, increases efficiency, and ensures consistent outcomes across interactions.
+
 ## Repository Structure
+
 ```
 meta-commands-for-ai/
 │
@@ -32,6 +50,7 @@ meta-commands-for-ai/
 ```
 
 ## Documentation
+
 - `concept.md` — detailed explanation of meta-commands and hypotheses.
 - `related_work.md` — survey of existing research, frameworks, and repositories.
 - `examples.md` — practical examples of meta-commands usage.
@@ -40,14 +59,17 @@ meta-commands-for-ai/
 - `roadmap.md` — planned next steps and future extensions.
 
 ## Tests
+
 - `test_plan.md` — plan for testing meta-commands in different scenarios.
 - `results/` — storage of test outputs.
 
 ## Data
+
 - `prompts/` — collection of prompts for testing.
 - `transcripts/` — transcripts or logs from test sessions.
 
 ## Getting Started
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/KRIO-Lab/meta-commands-for-ai.git
@@ -55,6 +77,7 @@ meta-commands-for-ai/
 2. Open `README.md` and other files in your preferred text editor to view or modify examples.
 
 ## Contributing
+
 1. Edit files locally or suggest new meta-commands.
 2. Commit changes with clear messages:
    ```bash
@@ -67,5 +90,6 @@ meta-commands-for-ai/
    ```
 
 ## License
+
 MIT License
 
